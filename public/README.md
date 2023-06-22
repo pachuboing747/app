@@ -14,7 +14,7 @@ Este es un proyecto de eCommerce de venta de ropa deportiva inspirado en el club
 - React.js: biblioteca de JavaScript para construir interfaces de usuario.
 - Node.js: entorno de ejecución de JavaScript para el desarrollo del backend.
 - Firestore: base de datos en la nube de Firebase para almacenar datos.
-- Otros paquetes y librerías de npm utilizados se pueden encontrar en el archivo `package.json` de cada directorio (frontend y backend).
+- Otros paquetes y librerías de npm utilizados se pueden encontrar en el archivo `package.json` de cada   directorio (frontend y backend).
 
 ## Instalación
 

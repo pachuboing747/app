@@ -14,8 +14,8 @@ const Carrito = () => {
     const orden = {
       items: carrito,
         comprador:{
-          nombre:"www",
-          email:"wwwwwee",
+          nombre:"",
+          email:"",
           telefono:1,  
         },
         fecha:new Date(),

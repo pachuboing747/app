@@ -1,6 +1,6 @@
 import CartWidget from "../CartWidget/CartWidget"
 import { Link } from "react-router-dom"
-import  image from "../Navbar/image/boca.png"
+import  image from "/boca.png"
 
 const Navbar = () =>{
     return(

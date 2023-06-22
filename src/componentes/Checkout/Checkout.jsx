@@ -59,7 +59,7 @@ const Checkout = () => {
 
   return (
     <div className="containe-checkout">
-      <img  className="boca-checkout" src="../../../public/boca.png" alt="boca" />
+      <img  className="boca-checkout" src="/boca.png" alt="boca" />
       <h1 className="title">Checkout</h1>
       <h2 className="title">Ingresa tus datos parara finalizar compra</h2>
       <CheckoutForm
